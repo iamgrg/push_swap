@@ -4,7 +4,7 @@
 
 `Push_swap` is a project designed to challenge your skills in data sorting with a limited set of operations and two stacks. The goal is to sort data using the least number of moves possible, applying various types of algorithms to find the most optimized solution.
 
-## Object Editable
+## Objectives
 
 The main objectives of this project are:
 - To implement a sorting algorithm using stack operations.
